@@ -1,0 +1,25 @@
+div {
+    position: sticky;
+    top: 10px;
+    background-color: red;
+    border: 2px solid black;
+    font-size: x-large;
+    padding: 20px;
+    color: azure;
+}
+
+p {
+    font-size: x-large;
+    background-color: yellow;
+    color: blue;
+}
+
+
+h1 {
+    background-color:pink;
+    border: 2px solid black;
+    font-size: xx-large;
+    text-align: center;
+    padding: 30px;
+    color: blue;
+}
